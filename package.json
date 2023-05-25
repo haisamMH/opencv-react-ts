@@ -1,5 +1,5 @@
 {
-  "name": "@hysham/opencv-react-ts",
+  "name": "@hysham32/opencv-react-ts",
   "version": "1.0.0",
   "description": "OpenCV lib for react typescript project",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/haisamMH/opencv-react-ts/issues"
   },
-  "homepage": "https://github.com/haisamMH/opencv-react-ts#readme"
+  "homepage": "https://github.com/haisamMH/opencv-react-ts#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
