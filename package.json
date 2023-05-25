@@ -1,0 +1,19 @@
+{
+  "name": "@hysham/opencv-react-ts",
+  "version": "1.0.0",
+  "description": "OpenCV lib for react typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haisamMH/opencv-react-ts.git"
+  },
+  "author": "hysham <hyshamhashim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haisamMH/opencv-react-ts/issues"
+  },
+  "homepage": "https://github.com/haisamMH/opencv-react-ts#readme"
+}
